@@ -9,3 +9,7 @@
 	root examples
 	browse / upstream.tpl
 }
+:8080/upstream-preview/ {
+	root examples
+	browse / upstream-preview.tpl
+}
