@@ -1,0 +1,11 @@
+:8080 {
+	root .
+}
+:8080/simple/ {
+	root examples
+	browse / simple.tpl
+}
+:8080/upstream/ {
+	root examples
+	browse / upstream.tpl
+}
